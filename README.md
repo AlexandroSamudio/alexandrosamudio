@@ -9,11 +9,3 @@ Soy un desarrollador full stack especializado en backend. Desarrollo aplicacione
 🔹 [**Kiosco Manager**](https://github.com/AlexandroSamudio/KioscoManager.git)  
 Aplicación web diseñada específicamente para kioscos y pequeñas tiendas de conveniencia, que funciona como un sistema de punto de venta (POS) y gestión de inventario. El proyecto busca solucionar la falta de herramientas modernas y asequibles para estos pequeños comercios, que a menudo dependen de métodos manuales ineficientes.  
 Tecnologías: Angular + ASP.NET Core + PostgreSQL + Nginx + Chart.JS
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alexandrosamudio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alexandrosamudio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrosamudio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=alexandrosamudio&icon=0&color=0)](https://visitcount.itsvg.in)
